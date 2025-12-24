@@ -1,0 +1,7 @@
+{
+  "name": "MI Manager",
+  "description": "A comprehensive distributor management tool for MI Lifestyle Marketing products with inventory tracking, financial analytics, and billing features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
